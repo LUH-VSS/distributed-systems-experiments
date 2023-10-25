@@ -1,7 +1,9 @@
 # distributed-systems-experiments
 This repository contains files for experiments for an exercise intended to get you acquainted to the world of Distributed Systems.
 
-To see the purpose of the exercise, consult the [Exercise PDF document](https://github.com/LUH-VSS/distributed-systems-experiments/Distributed_Systems_Exercise_23.pdf).
+To see the purpose of the exercise, consult the [Exercise PDF document](https://github.com/LUH-VSS/distributed-systems-experiments/blob/main/Distributed_Systems_Exercise_23.pdf).
+
+
 
 ## Instructions Track 1
 ```
